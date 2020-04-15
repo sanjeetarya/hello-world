@@ -1,3 +1,3 @@
 # hello-world
 just start
-exxilent work
+excellent work
